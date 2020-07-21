@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6da5c91c-0d1c-4edf-9ec9-10e647c2fd2e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/chaincode/fabfund/go/fabfund.go" beforeDir="false" afterPath="$PROJECT_DIR$/chaincode/fabfund/go/fabfund.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-network/base/docker-compose-base.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/first-network/base/docker-compose-base.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-network/byfn.sh" beforeDir="false" afterPath="$PROJECT_DIR$/first-network/byfn.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-network/ccp-generate.sh" beforeDir="false" afterPath="$PROJECT_DIR$/first-network/ccp-generate.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-network/ccp-template-2.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/first-network/ccp-template-2.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-network/ccp-template.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/first-network/ccp-template.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-network/channel-artifacts/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-network/configtx.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/first-network/configtx.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-network/connection-org3.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/first-network/connection-org3.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-network/connection-profile.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-network/crypto-config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/first-network/crypto-config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-network/docker-compose-ca.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/first-network/docker-compose-ca.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-network/docker-compose-cli.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/first-network/docker-compose-cli.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-network/docker-compose-couch.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/first-network/docker-compose-couch.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-network/docker-compose-e2e-template.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/first-network/docker-compose-e2e-template.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-network/scripts/script.sh" beforeDir="false" afterPath="$PROJECT_DIR$/first-network/scripts/script.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-network/scripts/utils.sh" beforeDir="false" afterPath="$PROJECT_DIR$/first-network/scripts/utils.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/startFabric.sh" beforeDir="false" afterPath="$PROJECT_DIR$/script/startFabric.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/application-local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/resources/application-local.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1ezP8xJ04uihqcRtJa4fSCU7NJh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6da5c91c-0d1c-4edf-9ec9-10e647c2fd2e" name="Default Changelist" comment="" />
+      <created>1595321292797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595321292797</updated>
+      <workItem from="1595321296592" duration="382000" />
+      <workItem from="1595321728991" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="682" y="292" width="866" height="580" key="find.popup" timestamp="1595321673830">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="682" y="292" width="866" height="580" key="find.popup/62.27.1858.1053@62.27.1858.1053" timestamp="1595321673830" />
+    <state x="716" y="467" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1595321676578">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="716" y="467" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/62.27.1858.1053@62.27.1858.1053" timestamp="1595321676578" />
+  </component>
+</project>
